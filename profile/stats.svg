@@ -24,7 +24,7 @@
 <g transform="translate(24,122)"><g class="in" style="animation-delay:0.16s">
   <text x="0" y="24" font-size="20">🔨</text>
   <text x="32" y="6" class="l">Commits (último año)</text>
-  <text x="32" y="32" class="v">10</text></g></g>
+  <text x="32" y="32" class="v">11</text></g></g>
 <g transform="translate(260,122)"><g class="in" style="animation-delay:0.24s">
   <text x="0" y="24" font-size="20">🔀</text>
   <text x="32" y="6" class="l">Pull requests</text>
@@ -32,7 +32,7 @@
 <g transform="translate(24,172)"><g class="in" style="animation-delay:0.32s">
   <text x="0" y="24" font-size="20">📅</text>
   <text x="32" y="6" class="l">Contribuciones (año)</text>
-  <text x="32" y="32" class="v">11</text></g></g>
+  <text x="32" y="32" class="v">12</text></g></g>
 <g transform="translate(260,172)"><g class="in" style="animation-delay:0.4s">
   <text x="0" y="24" font-size="20">🐞</text>
   <text x="32" y="6" class="l">Issues</text>
