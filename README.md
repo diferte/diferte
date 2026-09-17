@@ -174,16 +174,20 @@ Automatización e IA aplicada
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=diferte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=es" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diferte&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Top Langs"/>
+  <img src="./profile/stats.svg" width="49%" alt="Estadísticas de GitHub"/>
+  <img src="./profile/languages.svg" width="49%" alt="Lenguajes más usados"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=diferte&theme=tokyonight&hide_border=true&locale=es" alt="GitHub Streak"/>
+  <img src="./profile/activity.svg" width="98%" alt="Actividad semanal"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=diferte&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./profile/snake.svg"/>
+    <img src="./profile/snake.svg" width="98%" alt="Serpiente de contribuciones"/>
+  </picture>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" alt="line"/>
