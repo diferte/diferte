@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Diego Tejada · Solution Architect"/>
+  <img src="./header.svg" width="100%" alt="Diego Tejada · Solution Architect"/>
 </p>
 
 <p align="center">
@@ -204,5 +204,5 @@ Automatización e IA aplicada
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="footer"/>
+  <img src="./footer.svg" width="100%" alt="footer"/>
 </p>
