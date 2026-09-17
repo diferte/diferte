@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="280" viewBox="0 0 495 280">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0078D4"/><stop offset="1" stop-color="#C74634"/></linearGradient></defs>
+<style>
+  .t { font: 700 18px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .l { font: 500 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8B949E; }
+  .v { font: 700 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .s { font: 600 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .in { animation: in .8s ease-out both; }
+  @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+</style>
+<clipPath id="card"><rect x="0.5" y="0.5" width="494" height="279" rx="12"/></clipPath>
+<rect x="0.5" y="0.5" width="494" height="279" rx="12" fill="#161B22"/>
+<rect x="0" y="0" width="495" height="5" fill="url(#g)" clip-path="url(#card)"/>
+<rect x="0.5" y="0.5" width="494" height="279" rx="12" fill="none" stroke="#30363D"/>
+<text x="24" y="40" class="t">Lenguajes más usados</text>
+<clipPath id="r"><rect x="24" y="62" width="447" height="10" rx="5"/></clipPath><g clip-path="url(#r)"><rect x="24.0" y="62" width="447.0" height="10" fill="#7355dd"/></g>
+<g class="in" style="animation-delay:0s"><circle cx="30" cy="104" r="6" fill="#7355dd"/>
+  <text x="44" y="108" class="s">C#</text>
+  <text x="224" y="108" class="l" text-anchor="end">100.0%</text></g>
+</svg>

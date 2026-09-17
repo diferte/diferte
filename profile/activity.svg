@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0078D4"/><stop offset="1" stop-color="#C74634"/></linearGradient></defs>
+<style>
+  .t { font: 700 18px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .l { font: 500 13px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8B949E; }
+  .v { font: 700 22px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .s { font: 600 12px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #E6EDF3; }
+  .in { animation: in .8s ease-out both; }
+  @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+</style>
+<clipPath id="card"><rect x="0.5" y="0.5" width="999" height="259" rx="12"/></clipPath>
+<rect x="0.5" y="0.5" width="999" height="259" rx="12" fill="#161B22"/>
+<rect x="0" y="0" width="1000" height="5" fill="url(#g)" clip-path="url(#card)"/>
+<rect x="0.5" y="0.5" width="999" height="259" rx="12" fill="none" stroke="#30363D"/>
+<text x="24" y="40" class="t">Actividad semanal · últimos 12 meses</text>
+<defs><linearGradient id="a" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#36BCF7" stop-opacity="0.45"/><stop offset="1" stop-color="#36BCF7" stop-opacity="0"/></linearGradient></defs>
+<style>.ln { stroke-dasharray: 4000; stroke-dashoffset: 4000; animation: draw 2.5s ease-out forwards; } @keyframes draw { to { stroke-dashoffset: 0; } }</style>
+<line x1="50" x2="976" y1="220" y2="220" stroke="#30363D" stroke-dasharray="3 4"/>
+<text x="40" y="224" class="l" text-anchor="end">0</text>
+<line x1="50" x2="976" y1="145" y2="145" stroke="#30363D" stroke-dasharray="3 4"/>
+<text x="40" y="149" class="l" text-anchor="end">6</text>
+<line x1="50" x2="976" y1="70" y2="70" stroke="#30363D" stroke-dasharray="3 4"/>
+<text x="40" y="74" class="l" text-anchor="end">11</text>
+<path d="M50.0 220.0 L67.8 220.0 L85.6 220.0 L103.4 220.0 L121.2 220.0 L139.0 220.0 L156.8 220.0 L174.7 220.0 L192.5 220.0 L210.3 220.0 L228.1 220.0 L245.9 220.0 L263.7 220.0 L281.5 220.0 L299.3 220.0 L317.1 220.0 L334.9 220.0 L352.7 220.0 L370.5 220.0 L388.3 220.0 L406.2 220.0 L424.0 220.0 L441.8 220.0 L459.6 220.0 L477.4 220.0 L495.2 220.0 L513.0 220.0 L530.8 220.0 L548.6 220.0 L566.4 220.0 L584.2 220.0 L602.0 220.0 L619.8 220.0 L637.7 220.0 L655.5 220.0 L673.3 220.0 L691.1 220.0 L708.9 220.0 L726.7 220.0 L744.5 220.0 L762.3 220.0 L780.1 220.0 L797.9 220.0 L815.7 220.0 L833.5 220.0 L851.3 220.0 L869.2 220.0 L887.0 220.0 L904.8 220.0 L922.6 220.0 L940.4 220.0 L958.2 220.0 L976.0 70.0 L976.0 220 L50 220 Z" fill="url(#a)" class="in"/>
+<path d="M50.0 220.0 L67.8 220.0 L85.6 220.0 L103.4 220.0 L121.2 220.0 L139.0 220.0 L156.8 220.0 L174.7 220.0 L192.5 220.0 L210.3 220.0 L228.1 220.0 L245.9 220.0 L263.7 220.0 L281.5 220.0 L299.3 220.0 L317.1 220.0 L334.9 220.0 L352.7 220.0 L370.5 220.0 L388.3 220.0 L406.2 220.0 L424.0 220.0 L441.8 220.0 L459.6 220.0 L477.4 220.0 L495.2 220.0 L513.0 220.0 L530.8 220.0 L548.6 220.0 L566.4 220.0 L584.2 220.0 L602.0 220.0 L619.8 220.0 L637.7 220.0 L655.5 220.0 L673.3 220.0 L691.1 220.0 L708.9 220.0 L726.7 220.0 L744.5 220.0 L762.3 220.0 L780.1 220.0 L797.9 220.0 L815.7 220.0 L833.5 220.0 L851.3 220.0 L869.2 220.0 L887.0 220.0 L904.8 220.0 L922.6 220.0 L940.4 220.0 L958.2 220.0 L976.0 70.0" fill="none" stroke="#36BCF7" stroke-width="2.5" stroke-linejoin="round" class="ln"/>
+<text x="103.4" y="246" class="l" text-anchor="middle">oct</text>
+<text x="174.7" y="246" class="l" text-anchor="middle">nov</text>
+<text x="263.7" y="246" class="l" text-anchor="middle">dic</text>
+<text x="334.9" y="246" class="l" text-anchor="middle">ene</text>
+<text x="406.2" y="246" class="l" text-anchor="middle">feb</text>
+<text x="477.4" y="246" class="l" text-anchor="middle">mar</text>
+<text x="566.4" y="246" class="l" text-anchor="middle">abr</text>
+<text x="637.7" y="246" class="l" text-anchor="middle">may</text>
+<text x="726.7" y="246" class="l" text-anchor="middle">jun</text>
+<text x="797.9" y="246" class="l" text-anchor="middle">jul</text>
+<text x="869.2" y="246" class="l" text-anchor="middle">ago</text>
+<text x="958.2" y="246" class="l" text-anchor="middle">sep</text>
+</svg>
