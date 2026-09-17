@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,50:1B1F3B,100:C74634&height=220&section=header&text=Diego%20Tejada&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Solution%20Architect%20%26%20Development%20Leader&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Diego Tejada"/>
+  <img src="./assets/header.svg" width="100%" alt="Diego Tejada · Solution Architect"/>
 </p>
 
 <p align="center">
@@ -204,5 +204,5 @@ Automatización e IA aplicada
 
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C74634,50:1B1F3B,100:0078D4&height=120&section=footer" width="100%" alt="footer"/>
+  <img src="./assets/footer.svg" width="100%" alt="footer"/>
 </p>
