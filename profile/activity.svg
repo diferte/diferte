@@ -21,18 +21,18 @@
 <text x="40" y="149" class="l" text-anchor="end">6</text>
 <line x1="50" x2="976" y1="70" y2="70" stroke="#30363D" stroke-dasharray="3 4"/>
 <text x="40" y="74" class="l" text-anchor="end">12</text>
-<path d="M50.0 220.0 L67.8 220.0 L85.6 220.0 L103.4 220.0 L121.2 220.0 L139.0 220.0 L156.8 220.0 L174.7 220.0 L192.5 220.0 L210.3 220.0 L228.1 220.0 L245.9 220.0 L263.7 220.0 L281.5 220.0 L299.3 220.0 L317.1 220.0 L334.9 220.0 L352.7 220.0 L370.5 220.0 L388.3 220.0 L406.2 220.0 L424.0 220.0 L441.8 220.0 L459.6 220.0 L477.4 220.0 L495.2 220.0 L513.0 220.0 L530.8 220.0 L548.6 220.0 L566.4 220.0 L584.2 220.0 L602.0 220.0 L619.8 220.0 L637.7 220.0 L655.5 220.0 L673.3 220.0 L691.1 220.0 L708.9 220.0 L726.7 220.0 L744.5 220.0 L762.3 220.0 L780.1 220.0 L797.9 220.0 L815.7 220.0 L833.5 220.0 L851.3 220.0 L869.2 220.0 L887.0 220.0 L904.8 220.0 L922.6 220.0 L940.4 220.0 L958.2 220.0 L976.0 70.0 L976.0 220 L50 220 Z" fill="url(#a)" class="in"/>
-<path d="M50.0 220.0 L67.8 220.0 L85.6 220.0 L103.4 220.0 L121.2 220.0 L139.0 220.0 L156.8 220.0 L174.7 220.0 L192.5 220.0 L210.3 220.0 L228.1 220.0 L245.9 220.0 L263.7 220.0 L281.5 220.0 L299.3 220.0 L317.1 220.0 L334.9 220.0 L352.7 220.0 L370.5 220.0 L388.3 220.0 L406.2 220.0 L424.0 220.0 L441.8 220.0 L459.6 220.0 L477.4 220.0 L495.2 220.0 L513.0 220.0 L530.8 220.0 L548.6 220.0 L566.4 220.0 L584.2 220.0 L602.0 220.0 L619.8 220.0 L637.7 220.0 L655.5 220.0 L673.3 220.0 L691.1 220.0 L708.9 220.0 L726.7 220.0 L744.5 220.0 L762.3 220.0 L780.1 220.0 L797.9 220.0 L815.7 220.0 L833.5 220.0 L851.3 220.0 L869.2 220.0 L887.0 220.0 L904.8 220.0 L922.6 220.0 L940.4 220.0 L958.2 220.0 L976.0 70.0" fill="none" stroke="#36BCF7" stroke-width="2.5" stroke-linejoin="round" class="ln"/>
-<text x="103.4" y="246" class="l" text-anchor="middle">oct</text>
-<text x="174.7" y="246" class="l" text-anchor="middle">nov</text>
-<text x="263.7" y="246" class="l" text-anchor="middle">dic</text>
-<text x="334.9" y="246" class="l" text-anchor="middle">ene</text>
-<text x="406.2" y="246" class="l" text-anchor="middle">feb</text>
-<text x="477.4" y="246" class="l" text-anchor="middle">mar</text>
-<text x="566.4" y="246" class="l" text-anchor="middle">abr</text>
-<text x="637.7" y="246" class="l" text-anchor="middle">may</text>
-<text x="726.7" y="246" class="l" text-anchor="middle">jun</text>
-<text x="797.9" y="246" class="l" text-anchor="middle">jul</text>
-<text x="869.2" y="246" class="l" text-anchor="middle">ago</text>
-<text x="958.2" y="246" class="l" text-anchor="middle">sep</text>
+<path d="M50.0 220.0 L67.8 220.0 L85.6 220.0 L103.4 220.0 L121.2 220.0 L139.0 220.0 L156.8 220.0 L174.7 220.0 L192.5 220.0 L210.3 220.0 L228.1 220.0 L245.9 220.0 L263.7 220.0 L281.5 220.0 L299.3 220.0 L317.1 220.0 L334.9 220.0 L352.7 220.0 L370.5 220.0 L388.3 220.0 L406.2 220.0 L424.0 220.0 L441.8 220.0 L459.6 220.0 L477.4 220.0 L495.2 220.0 L513.0 220.0 L530.8 220.0 L548.6 220.0 L566.4 220.0 L584.2 220.0 L602.0 220.0 L619.8 220.0 L637.7 220.0 L655.5 220.0 L673.3 220.0 L691.1 220.0 L708.9 220.0 L726.7 220.0 L744.5 220.0 L762.3 220.0 L780.1 220.0 L797.9 220.0 L815.7 220.0 L833.5 220.0 L851.3 220.0 L869.2 220.0 L887.0 220.0 L904.8 220.0 L922.6 220.0 L940.4 220.0 L958.2 70.0 L976.0 220.0 L976.0 220 L50 220 Z" fill="url(#a)" class="in"/>
+<path d="M50.0 220.0 L67.8 220.0 L85.6 220.0 L103.4 220.0 L121.2 220.0 L139.0 220.0 L156.8 220.0 L174.7 220.0 L192.5 220.0 L210.3 220.0 L228.1 220.0 L245.9 220.0 L263.7 220.0 L281.5 220.0 L299.3 220.0 L317.1 220.0 L334.9 220.0 L352.7 220.0 L370.5 220.0 L388.3 220.0 L406.2 220.0 L424.0 220.0 L441.8 220.0 L459.6 220.0 L477.4 220.0 L495.2 220.0 L513.0 220.0 L530.8 220.0 L548.6 220.0 L566.4 220.0 L584.2 220.0 L602.0 220.0 L619.8 220.0 L637.7 220.0 L655.5 220.0 L673.3 220.0 L691.1 220.0 L708.9 220.0 L726.7 220.0 L744.5 220.0 L762.3 220.0 L780.1 220.0 L797.9 220.0 L815.7 220.0 L833.5 220.0 L851.3 220.0 L869.2 220.0 L887.0 220.0 L904.8 220.0 L922.6 220.0 L940.4 220.0 L958.2 70.0 L976.0 220.0" fill="none" stroke="#36BCF7" stroke-width="2.5" stroke-linejoin="round" class="ln"/>
+<text x="85.6" y="246" class="l" text-anchor="middle">oct</text>
+<text x="156.8" y="246" class="l" text-anchor="middle">nov</text>
+<text x="245.9" y="246" class="l" text-anchor="middle">dic</text>
+<text x="317.1" y="246" class="l" text-anchor="middle">ene</text>
+<text x="388.3" y="246" class="l" text-anchor="middle">feb</text>
+<text x="459.6" y="246" class="l" text-anchor="middle">mar</text>
+<text x="548.6" y="246" class="l" text-anchor="middle">abr</text>
+<text x="619.8" y="246" class="l" text-anchor="middle">may</text>
+<text x="708.9" y="246" class="l" text-anchor="middle">jun</text>
+<text x="780.1" y="246" class="l" text-anchor="middle">jul</text>
+<text x="851.3" y="246" class="l" text-anchor="middle">ago</text>
+<text x="940.4" y="246" class="l" text-anchor="middle">sep</text>
 </svg>
